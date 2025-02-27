@@ -82,11 +82,11 @@
 /* 1. TEMPLATE BACKGROUNDS */
 /* 1.1. logo mobile IMG BACKGROUND */
 .header-navigation-xs .logo-holder {
-  background: url(https://picsum.photos/59/35) no-repeat center;
+background: url(../img/logo-light.png) no-repeat center;
 }
 
 .header-navigation-xs .logo-holder.logo-holder-dark {
-  background: url(https://picsum.photos/59/35?grayscale) no-repeat center;
+background: url(../img/logo-dark.png) no-repeat center;
 }
 
 /* 1.2. single IMG BACKGROUND */
